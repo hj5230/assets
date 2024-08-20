@@ -1,0 +1,32 @@
+const app_definition = {
+  path: [
+    {
+      name: '主页',
+      path: '/',
+    },
+    {
+      name: '简历',
+      path: '/resume',
+    },
+    {
+      name: '项目',
+      path: '/project',
+    },
+    {
+      name: '实习',
+      path: '/work',
+    },
+    {
+      name: '联系',
+      path: '/contact',
+    },
+  ],
+  defaultThemeColor: 'iris',
+  defaultAppearance: 'dark',
+  $error_title: '出错了',
+  $error_description:
+    '如果问题持续出现：请检查你的网络连接，尽可能不要使用网络代理，并校准你的系统时间，处于某些地区或处于黑名单的IP访问会被拒绝。',
+  $error_redirect: '将在$秒后重定向到主页',
+}
+
+export default app_definition
