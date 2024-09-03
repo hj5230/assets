@@ -1,0 +1,25 @@
+{
+    "site_icon_uri": "https://avatars.githubusercontent.com/u/98270829?s…00&u=0a85d88786ce72fb7502b4010bbaa0d9bbdb0556&v=4",
+    "navigator_items": [
+        {
+            "name": "主页",
+            "path": "/"
+        },
+        {
+            "name": "简历",
+            "path": "/resume"
+        },
+        {
+            "name": "项目",
+            "path": "/project"
+        },
+        {
+            "name": "实习",
+            "path": "/work"
+        },
+        {
+            "name": "联系",
+            "path": "/contact"
+        }
+    ]
+}
