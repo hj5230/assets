@@ -120,22 +120,22 @@
     "language": [
         {
             "lang": "汉语 普通话",
-            "level": "Native",
+            "level": 4,
             "comment": "母语"
         },
         {
             "lang": "英语",
-            "level": "Advanced",
+            "level": 3,
             "comment": "雅思7.5分"
         },
         {
             "lang": "芬兰语",
-            "level": "Basic",
+            "level": 1,
             "comment": "大学课程"
         },
         {
             "lang": "荷兰语",
-            "level": "Basic",
+            "level": 1,
             "comment": "自学"
         }
     ]
