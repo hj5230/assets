@@ -93,10 +93,14 @@
     ],
     "_contact": "联系",
     "_phone": "电话",
+    "phone": ["+86 17692191875", "+32 483014905"],
     "_email": "邮箱",
+    "email": "hf305@foxmail.com",
     "_wechat": "微信",
+    "wechat": "m52301ac",
     "_github": "我的Github主页：",
-    "_langlever": {
+    "github": "https://github.com/hj5230",
+    "_langlevel": {
         "basic": "基础",
         "intermediate": "熟练",
         "advanced": "专业",
