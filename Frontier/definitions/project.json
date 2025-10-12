@@ -8,7 +8,8 @@
                 "• Familiarized with UI/UX design principles"
             ],
             "comment": "It was a great experience to work with experienced engineers, it not only improved my coding skills but also my communication skills.It was a great experience to work with experienced engineers, it not only improved my coding skills but also my communication skills.",
-            "media_uri": "https://player.bilibili.com/player.html?isOutside=true&aid=112882914165766&bvid=BV1oTvbeWE3t&cid=500001634125116&p=1"
+            "media_uri": "https://player.bilibili.com/player.html?isOutside=true&aid=112882914165766&bvid=BV1oTvbeWE3t&cid=500001634125116&p=1",
+            "media_type": "video"
         },
         {
             "name": "Software Engineering Bootcamp",
@@ -18,7 +19,8 @@
                 "• Implemented agile methodologies in a team project environment"
             ],
             "comment": "This intensive program significantly enhanced my practical coding skills and gave me invaluable experience in collaborative software development. The exposure to industry-standard practices was particularly beneficial.",
-            "media_uri": "https://via.placeholder.com/150"
+            "media_uri": "https://via.placeholder.com/150",
+            "media_type": "img"
         },
         {
             "name": "Data Science Workshop",
@@ -28,7 +30,8 @@
                 "• Conducted data analysis projects using Python and R"
             ],
             "comment": "The workshop provided a deep dive into the world of data science, equipping me with the skills to tackle complex data problems. The hands-on projects were especially enlightening and helped solidify my understanding of key concepts.",
-            "media_uri": "https://via.placeholder.com/150"
+            "media_uri": "https://via.placeholder.com/150",
+            "media_type": "img"
         },
         {
             "name": "Cybersecurity Fundamentals Course",
@@ -38,7 +41,8 @@
                 "• Participated in Capture The Flag (CTF) competitions"
             ],
             "comment": "This course opened my eyes to the critical importance of cybersecurity in today's digital landscape. The practical exercises and competitions were both challenging and rewarding, providing real-world context to the theoretical concepts we studied.",
-            "media_uri": "https://via.placeholder.com/150"
+            "media_uri": "https://via.placeholder.com/150",
+            "media_type": "img"
         }
     ]
 }
