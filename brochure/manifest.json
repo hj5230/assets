@@ -1,0 +1,36 @@
+{
+    "$schema": "./manifest.schema.json",
+    "version": "1.0.0",
+    "applications": [
+        {
+            "id": "frontier",
+            "name": "Frontier",
+            "description": "Your configurable business card on web",
+            "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=frontier"
+        },
+        {
+            "id": "navigator",
+            "name": "Navigator",
+            "description": "Found anything and everything here",
+            "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=navigator"
+        },
+        {
+            "id": "tiger",
+            "name": "Tiger",
+            "description": "Objective, key results and tasks, all in one place",
+            "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tiger"
+        },
+        {
+            "id": "portrait",
+            "name": "Portrait",
+            "description": "More than just a yellow page",
+            "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=portrait"
+        },
+        {
+            "id": "genever",
+            "name": "Genever",
+            "description": "Write, manage and recall your knowledge",
+            "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=genever"
+        }
+    ]
+}

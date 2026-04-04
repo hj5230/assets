@@ -1,0 +1,32 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "brochure-manifest",
+    "type": "object",
+    "properties": {
+        "version": {
+            "type": "string"
+        },
+        "applications": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "avatarUrl": {
+                        "type": "string"
+                    }
+                },
+                "required": ["id", "name", "description", "avatarUrl"]
+            }
+        }
+    },
+    "required": ["version", "applications"]
+}
